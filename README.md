@@ -18,3 +18,4 @@
 |EE6203|[Computer Control Systems](https://github.com/NTU-CCA/EE6203)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|Fall, 2019|
 |EE6010|[Project Management & Technopreneurship](https://github.com/NTU-CCA/EE6010)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|Spring, 2019|
 
+#### Copyright © Nanyang Technological University. All rights reserved.
