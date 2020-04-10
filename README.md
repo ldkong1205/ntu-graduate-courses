@@ -15,7 +15,7 @@
 |EE6222|[Machine Vision](https://github.com/NTU-CCA/EE6222)|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/), Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)|Fall, 2018|
 |EE6221|[Robotics & Intelligent Sensors](https://github.com/NTU-CCA/EE6221)|Prof. [Chien Chern Cheah](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=ecccheah), Prof. [Guoqiang Hu](https://www.ntu.edu.sg/home/gqhu/)|Spring, 2020|
 |EE6204|[Systems Analysis](https://github.com/NTU-CCA/EE6204)|Prof. [Jia Yiing Wong](https://www.ntu.edu.sg/home/elpchau/), Prof. [Danwei Wang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EDWWANG)|Spring, 2020|
-|EE6203|[Computer Control Systems](https://github.com/NTU-CCA/EE6203)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|Fall, 2019|
-|EE6010|[Project Management & Technopreneurship](https://github.com/NTU-CCA/EE6010)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|Spring, 2019|
+|EE6203|[Computer Control Systems](https://github.com/NTU-CCA/EE6203)|Prof. [Changyun Wen](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=ECYWEN), Prof. [Peng Hin Lee](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EPHLEE)|Fall, 2019|
+|EE6010|[Project Management & Technopreneurship](https://github.com/NTU-CCA/EE6010)|Prof. [Alex Kot](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EACKOT), Prof. [Mohammed Yakoob Siyal](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=eyakoob&CategoryDescription=InternetCommunications)|Spring, 2019|
 
 #### Copyright © Nanyang Technological University, Singapore. All rights reserved.
