@@ -10,7 +10,11 @@
 |EE6427|[Video Signal Processing](https://github.com/NTU-CCA/EE6427)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|Fall, 2018|
 |EE6401|[Advanced Digital Signal Processing](https://github.com/NTU-CCA/EE6401)|Prof. [Guoan Bi](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EGBI), Prof. [Zhiping Lin](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EZPLIN)|Fall, 2019|
 |EE6227|[Genetic Algorithms & Machine Learning](https://github.com/NTU-CCA/EE6227)|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)|Spring, 2020|
-|EE6222|[Machine Vision](https://github.com/NTU-CCA/EE6427)|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/), Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)|Fall, 2018|
-|EE6427|[Video Signal Processing](https://github.com/NTU-CCA/EE6427)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|Fall, 2018|
-|EE6427|[Video Signal Processing](https://github.com/NTU-CCA/EE6427)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|Fall, 2018|
+|EE6225|[Process Control](https://github.com/NTU-CCA/EE6225)|Prof. [Wenjian Cai](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWJCAI), Prof. [Xing Zhang](https://xinzhangee.wixsite.com/mysite)|Fall, 2019|
+|EE6223|[Computer Control Networks](https://github.com/NTU-CCA/EE6223)|Prof. [Guangbin Huang](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EGBHUANG), Prof. [Cheong Boon Soh](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=ECBSOH)|Spring, 2019|
+|EE6222|[Machine Vision](https://github.com/NTU-CCA/EE6222)|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/), Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)|Fall, 2018|
+|EE6221|[Robotics & Intelligent Sensors](https://github.com/NTU-CCA/EE6221)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|Spring, 2020|
+|EE6204|[Systems Analysis](https://github.com/NTU-CCA/EE6204)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|Spring, 2020|
+|EE6203|[Computer Control Systems](https://github.com/NTU-CCA/EE6203)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|Fall, 2019|
+|EE6010|[Project Management & Technopreneurship](https://github.com/NTU-CCA/EE6010)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|Spring, 2019|
 
