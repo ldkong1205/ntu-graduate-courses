@@ -1,6 +1,6 @@
 |![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/logo.png)|
 |---|
-# EE7207 - Graduate-Level Courses of Nanyang Technological University
+# Graduate-Level Courses of Nanyang Technological University
 
 |#|Content|Lecture Note|Lecturer|
 |:---:|:---:|:---:|:---:|
