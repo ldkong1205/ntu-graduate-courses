@@ -27,8 +27,6 @@
 |NM6003|Analog IC Design||Fall, 2019|
 |NM6002|System-on-Chip Solutions & Architecture||Fall, 2019|
 |NM6001|Digital IC Design||Fall, 2019|
-|TUMA205|International Intellectual Property Law||Summer, 2020|
-|TUMA200|Business Administration||Fall, 2019|
 
 
 #### Copyright © Nanyang Technological University, Singapore. All rights reserved.
