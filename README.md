@@ -17,6 +17,6 @@
 |EE6204|[Systems Analysis](https://github.com/NTU-CCA/EE6204)|Prof. [Jia Yiing Wong](https://www.ntu.edu.sg/home/elpchau/), Prof. [Danwei Wang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EDWWANG)|Spring, 2020|
 |EE6203|[Computer Control Systems](https://github.com/NTU-CCA/EE6203)|Prof. [Changyun Wen](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=ECYWEN), Prof. [Peng Hin Lee](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EPHLEE)|Fall, 2019|
 |EE6010|[Project Management & Technopreneurship](https://github.com/NTU-CCA/EE6010)|Prof. [Alex Kot](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EACKOT), Prof. [Mohammed Yakoob Siyal](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=eyakoob&CategoryDescription=InternetCommunications)|Spring, 2019|
-|TUM|Advanced MOSFETs and Novel Devices|Prof. [Josef Biba](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EACKOT)ST_EMAILID=eyakoob&CategoryDescription=InternetCommunications)|Fall, 2019|
+|TUM Asia|Advanced MOSFETs and Novel Devices|Prof. [Josef Biba](https://tum-asia.edu.sg/dr-ing-josef-biba/)|Fall, 2019|
 
 #### Copyright © Nanyang Technological University, Singapore. All rights reserved.
