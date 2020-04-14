@@ -19,16 +19,16 @@
 |EE6010|[Project Management & Technopreneurship](https://github.com/NTU-CCA/EE6010)|Prof. [Alex Kot](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EACKOT), Prof. [Mohammed Yakoob Siyal](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=eyakoob&CategoryDescription=InternetCommunications)|Spring, 2019|
 |CE9010|Introduction to Data Analysis|Prof. [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)|Spring, 2020|
 |CE7454|Deep learning|Prof. [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)|Spring, 2020|
-|NM6014|Design for Testability of VLSI||Fall, 2019|
+|NM6014|Design for Testability of VLSI|Prof. [Tae Hyoung Kim](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=THKIM) |Fall, 2019|
 |NM6012|Advanced MOSFETs and Novel Devices|Prof. [Josef Biba](https://tum-asia.edu.sg/dr-ing-josef-biba/)|Fall, 2019|
-|NM6010|IC Packaging||Fall, 2019|
-|NM6008|Digital Circuit Design Lab||Fall, 2019|
+|NM6010|IC Packaging|Prof. [Chuan Seng Tan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TANCS)|Fall, 2019|
+|NM6008|Digital Circuit Design Lab|Prof. Kwen-Siong Chong|Fall, 2019|
 |NM6007|Analog Circuit Design Lab||Fall, 2019|
-|NM6006|Mixed Signal Circuit Design||Fall, 2019|
-|NM6004|Design Methodology & Automation||Fall, 2019|
-|NM6003|Analog IC Design||Fall, 2019|
-|NM6002|System-on-Chip Solutions & Architecture||Fall, 2019|
-|NM6001|Digital IC Design||Fall, 2019|
+|NM6006|Mixed Signal Circuit Design|Prof. [Stephan Henzler](http://www.lte.ei.tum.de/homes/henzler/)|Fall, 2019|
+|NM6004|Design Methodology & Automation|Prof. [Ulf Schlichtmann](https://www.professoren.tum.de/en/schlichtmann-ulf/)|Fall, 2019|
+|NM6003|Analog IC Design|Prof. [Ji-Jon Sit](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=JIJON)|Fall, 2019|
+|NM6002|System-on-Chip Solutions & Architecture|Prof. [Andreas Herkersdorf](https://www.professoren.tum.de/en/herkersdorf-andreas/)|Fall, 2019|
+|NM6001|Digital IC Design|Prof. [Wang Ling Goh](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWLGOH), Prof. [Chip Hong Chang]()|Fall, 2019|
 |TUMA205|International Intellectual Property Law||Summer, 2020|
 |TUMA200|Business Administration||Fall, 2019|
 
