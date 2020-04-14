@@ -29,7 +29,7 @@
 |NM6003|Analog IC Design|Prof. [Ji-Jon Sit](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=JIJON)|Fall, 2019|
 |NM6002|System-on-Chip Solutions & Architecture|Prof. [Andreas Herkersdorf](https://www.professoren.tum.de/en/herkersdorf-andreas/)|Fall, 2019|
 |NM6001|Digital IC Design|Prof. [Wang Ling Goh](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWLGOH), Prof. [Chip Hong Chang]()|Fall, 2019|
-|TUMA205|International Intellectual Property Law||Summer, 2020|
+|TUMA205|International Intellectual Property Law||Spring, 2020|
 |TUMA200|Business Administration||Fall, 2019|
 
 
