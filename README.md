@@ -4,7 +4,7 @@
 
 |#|Course|Lecturer|Session|
 |:---:|:---:|:---:|:---:|
-|EE7403|[Image Analysis & Pattern Recognition](https://github.com/NTU-CCA/EE7403)|Prof. [Xudong Jiang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EXDJIANG)|2019-2020|
+|EE7403|[Image Analysis & Pattern Recognition](https://github.com/NTU-CCA/EE7403)|Prof. [Xudong Jiang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EXDJIANG)|2019/20|
 |EE7207|[Neural & Fuzzy Systems](https://github.com/NTU-CCA/EE7207)|Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EKZMAO), Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)|2019-2020|
 |EE6601|[Advanced Wafer Processing](https://github.com/NTU-CCA/EE6601)|Prof. [Chuan Seng Tan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TANCS), Prof. [Lei Wei](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=WEI.LEI), Prof. [B. K. Tay](http://eeeweba.ntu.edu.sg/BKTay/)|2018-2019|
 |EE6427|[Video Signal Processing](https://github.com/NTU-CCA/EE6427)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|2018-2019|
