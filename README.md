@@ -26,7 +26,7 @@
 |NM6007|Analog Circuit Design Lab||2019/20|
 |NM6006|Mixed Signal Circuit Design|Prof. [Stephan Henzler](http://www.lte.ei.tum.de/homes/henzler/)|2019/20|
 |NM6004|Design Methodology & Automation|Prof. [Ulf Schlichtmann](https://www.professoren.tum.de/en/schlichtmann-ulf/)|2019/20|
-|NM6003|Analog IC Design|Prof. [Ji-Jon Sit](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=JIJON)|2019-2020|
+|NM6003|Analog IC Design|Prof. [Ji-Jon Sit](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=JIJON)|2019/20|
 |NM6002|System-on-Chip Solutions & Architecture|Prof. [Andreas Herkersdorf](https://www.professoren.tum.de/en/herkersdorf-andreas/)|2019/20|
 |NM6001|Digital IC Design|Prof. [Wang Ling Goh](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWLGOH), Prof. [Chip Hong Chang]()|2019/20|
 
