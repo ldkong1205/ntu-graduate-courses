@@ -18,7 +18,17 @@
 |EE6203|[Computer Control Systems](https://github.com/NTU-CCA/EE6203)|Prof. [Changyun Wen](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=ECYWEN), Prof. [Peng Hin Lee](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EPHLEE)|2019/20|
 |EE6010|[Project Management & Technopreneurship](https://github.com/NTU-CCA/EE6010)|Prof. [Alex Kot](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EACKOT), Prof. [Mohammed Yakoob Siyal](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=eyakoob&CategoryDescription=InternetCommunications)|2018/19|
 |CE9010|Introduction to Data Analysis|Prof. [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)|2019/20|
-|CE7454|Deep learning|Prof. [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)|2019/20|
+|CE7491|Special Advanced Topic - Digital Image Processing|||
+|CE7490|Special Advanced Topic - Distributed Systems|||
+|CE7455|Deep learning for Natural Language Processing|||
+|CE7454|Deep learning for Data Science|Prof. [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)|2019/20|
+|CE7453|Special Advanced Topic - Computational Intelligence : Methods & Applications|||
+|CE7428|Special Advanced Topic - Computer and Network Security|||
+|CE7427|Advanced Topic in Cognitive Neuroscience and Embodied Intelligence|||
+|CE7426|Advanced Topic in Convex Optimization|||
+|CE7412|Computational and Systems Biology|||
+|CE7411|Bioinformatics|||
+|CE7405|Data Mining|||
 |NM6014|Design for Testability of VLSI|Prof. [Tae Hyoung Kim](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=THKIM) |2019/20|
 |NM6012|Advanced MOSFETs and Novel Devices|Prof. [Josef Biba](https://tum-asia.edu.sg/dr-ing-josef-biba/)|2019/20|
 |NM6010|IC Packaging|Prof. [Chuan Seng Tan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TANCS)|2019/20|
