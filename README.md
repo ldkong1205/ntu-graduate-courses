@@ -2,7 +2,7 @@
 |---|
 # Graduate-Level Courses of Nanyang Technological University
 
-|#|Course|Lecturer|Session|
+|#|Course Title|Lecturer|Session|
 |:---:|:---:|:---:|:---:|
 |EE7403|[Image Analysis & Pattern Recognition](https://github.com/NTU-CCA/EE7403)|Prof. [Xudong Jiang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EXDJIANG)|2019/20|
 |EE7207|[Neural & Fuzzy Systems](https://github.com/NTU-CCA/EE7207)|Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EKZMAO), Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)|2019/20|
