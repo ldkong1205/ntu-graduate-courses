@@ -20,7 +20,7 @@
 |CE9010|Introduction to Data Analysis|Prof. [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)|2019/20|
 |CE7491|Special Advanced Topic - Digital Image Processing|||
 |CE7490|Special Advanced Topic - Distributed Systems|||
-|CE7455|Deep learning for Natural Language Processing|||
+|CE7455|[Deep learning for Natural Language Processing](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)|Prof. [Shafiq Rayhan Joty](https://raihanjoty.github.io/)|2019/2020|
 |CE7454|Deep learning for Data Science|Prof. [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)|2019/20|
 |CE7453|Special Advanced Topic - Computational Intelligence : Methods & Applications|||
 |CE7428|Special Advanced Topic - Computer and Network Security|||
