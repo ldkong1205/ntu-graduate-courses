@@ -29,6 +29,9 @@
 |CE7412|Computational and Systems Biology|||
 |CE7411|Bioinformatics|||
 |CE7405|Data Mining|||
+|AI6104|Mathematics for AI|Prof. [Adams Wai Kin Kong](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=ADAMSKONG)|2020/21|
+|AI6103|Deep Learning and Applications|||
+|AI6102|Machine Learning: Methodologies and Applications|||
 |NM6014|Design for Testability of VLSI|Prof. [Tae Hyoung Kim](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=THKIM) |2019/20|
 |NM6012|Advanced MOSFETs and Novel Devices|Prof. [Josef Biba](https://tum-asia.edu.sg/dr-ing-josef-biba/)|2019/20|
 |NM6010|IC Packaging|Prof. [Chuan Seng Tan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TANCS)|2019/20|
