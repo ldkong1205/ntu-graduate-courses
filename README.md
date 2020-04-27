@@ -17,6 +17,12 @@
 |EE6204|[Systems Analysis](https://github.com/NTU-CCA/EE6204)|Prof. [Jia Yiing Wong](https://www.ntu.edu.sg/home/elpchau/), Prof. [Danwei Wang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EDWWANG)|2019/20|
 |EE6203|[Computer Control Systems](https://github.com/NTU-CCA/EE6203)|Prof. [Changyun Wen](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=ECYWEN), Prof. [Peng Hin Lee](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EPHLEE)|2019/20|
 |EE6010|[Project Management & Technopreneurship](https://github.com/NTU-CCA/EE6010)|Prof. [Alex Kot](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EACKOT), Prof. [Mohammed Yakoob Siyal](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=eyakoob&CategoryDescription=InternetCommunications)|2018/19|
+|AI6122|Text Data Management and Processing|||
+|AI6127|Deep Neural Networks for Natural Language Processing|||
+|AI6104|Mathematics for AI|Prof. [Adams Wai Kin Kong](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=ADAMSKONG)|2020/21|
+|AI6103|Deep Learning and Applications|||
+|AI6102|Machine Learning: Methodologies and Applications|||
+|AI6101|Introduction to AI and AI Ethics|||
 |CE9010|Introduction to Data Analysis|Prof. [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)|2019/20|
 |CE7491|Special Advanced Topic - Digital Image Processing|||
 |CE7490|Special Advanced Topic - Distributed Systems|||
@@ -29,9 +35,6 @@
 |CE7412|Computational and Systems Biology|||
 |CE7411|Bioinformatics|||
 |CE7405|Data Mining|||
-|AI6104|Mathematics for AI|Prof. [Adams Wai Kin Kong](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=ADAMSKONG)|2020/21|
-|AI6103|Deep Learning and Applications|||
-|AI6102|Machine Learning: Methodologies and Applications|||
 |NM6014|Design for Testability of VLSI|Prof. [Tae Hyoung Kim](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=THKIM) |2019/20|
 |NM6012|Advanced MOSFETs and Novel Devices|Prof. [Josef Biba](https://tum-asia.edu.sg/dr-ing-josef-biba/)|2019/20|
 |NM6010|IC Packaging|Prof. [Chuan Seng Tan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TANCS)|2019/20|
