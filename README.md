@@ -7,7 +7,14 @@
 |EE7403|[Image Analysis & Pattern Recognition](https://github.com/NTU-CCA/EE7403)|Prof. [Xudong Jiang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EXDJIANG)|
 |EE7207|[Neural & Fuzzy Systems](https://github.com/NTU-CCA/EE7207)|Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EKZMAO), Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)|
 |EE6601|[Advanced Wafer Processing](https://github.com/NTU-CCA/EE6601)|Prof. [Chuan Seng Tan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TANCS), Prof. [Lei Wei](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=WEI.LEI), Prof. [Beng Kang Tay](http://eeeweba.ntu.edu.sg/BKTay/)|
+|EE6511|Power System Modelling and Control||
+|EE6508|Power Quality||
+|EE6503|Modern Electronic Drives||
+|EE6501|Power Electronic Converters||
 |EE6427|[Video Signal Processing](https://github.com/NTU-CCA/EE6427)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|
+|EE6424|Digital Audio Signal Processing||
+|EE6403|Distributed Multimedia Systems||
+|EE6402|Real-Time DSP Design and Applications||
 |EE6401|[Advanced Digital Signal Processing](https://github.com/NTU-CCA/EE6401)|Prof. [Guoan Bi](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EGBI), Prof. [Zhiping Lin](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EZPLIN)|
 |EE6227|[Genetic Algorithms & Machine Learning](https://github.com/NTU-CCA/EE6227)|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)|
 |EE6225|[Process Control](https://github.com/NTU-CCA/EE6225)|Prof. [Wenjian Cai](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWJCAI), Prof. [Xing Zhang](https://xinzhangee.wixsite.com/mysite)|
