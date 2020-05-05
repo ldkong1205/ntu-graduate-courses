@@ -6,8 +6,11 @@
 |:---:|:---:|:---:|
 |EE7403|[Image Analysis & Pattern Recognition](https://github.com/NTU-CCA/EE7403)|Prof. [Xudong Jiang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EXDJIANG)|
 |EE7207|[Neural & Fuzzy Systems](https://github.com/NTU-CCA/EE7207)|Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EKZMAO), Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)|
+|EE6602|Quality and Reliability Engineering|||
 |EE6601|[Advanced Wafer Processing](https://github.com/NTU-CCA/EE6601)|Prof. [Chuan Seng Tan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TANCS), Prof. [Lei Wei](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=WEI.LEI), Prof. [Beng Kang Tay](http://eeeweba.ntu.edu.sg/BKTay/)|
 |EE6511|[Power System Modelling and Control](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE6511)|Prof. [Eddy Y. S. Foo](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=eddyfoo)|
+|EE6510|Power System Operation and Planning|||
+|EE6509|Renewable Energy Systems in Smart Grids|||
 |EE6508|Power Quality||
 |EE6503|Modern Electronic Drives||
 |EE6501|Power Electronic Converters||
@@ -16,6 +19,9 @@
 |EE6403|Distributed Multimedia Systems||
 |EE6402|Real-Time DSP Design and Applications||
 |EE6401|[Advanced Digital Signal Processing](https://github.com/NTU-CCA/EE6401)|Prof. [Guoan Bi](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EGBI), Prof. [Zhiping Lin](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EZPLIN)|
+|EE6307|Analog IC Design|||
+|EE6306|Digital IC Design|||
+|EE6303|Electromagnetic Compatibility Design|||
 |EE6227|[Genetic Algorithms & Machine Learning](https://github.com/NTU-CCA/EE6227)|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)|
 |EE6225|[Process Control](https://github.com/NTU-CCA/EE6225)|Prof. [Wenjian Cai](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWJCAI), Prof. [Xing Zhang](https://xinzhangee.wixsite.com/mysite)|
 |EE6223|[Computer Control Networks](https://github.com/NTU-CCA/EE6223)|Prof. [Guangbin Huang](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EGBHUANG), Prof. [C. B. Soh](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=ECBSOH)|2018/19|
@@ -23,6 +29,12 @@
 |EE6221|[Robotics & Intelligent Sensors](https://github.com/NTU-CCA/EE6221)|Prof. [Chien Chern Cheah](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=ecccheah), Prof. [Guoqiang Hu](https://www.ntu.edu.sg/home/gqhu/)|2019/20|
 |EE6204|[Systems Analysis](https://github.com/NTU-CCA/EE6204)|Prof. [Jia Yiing Wong](https://www.ntu.edu.sg/home/elpchau/), Prof. [Danwei Wang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EDWWANG)|
 |EE6203|[Computer Control Systems](https://github.com/NTU-CCA/EE6203)|Prof. [Changyun Wen](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=ECYWEN), Prof. [Peng Hin Lee](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EPHLEE)|
+|EE6130|Antennas and Propagation for Wireless Systems|||
+|EE6129|Wireless and Mobile Radio Systems|||
+|EE6128|RF Circuits for Wireless Communications|||
+|EE6122|Optical Fiber Communications|||
+|EE6108|Computer Networks|||
+|EE6101|Digital Communication Systems|||
 |EE6010|[Project Management & Technopreneurship](https://github.com/NTU-CCA/EE6010)|Prof. [Alex Kot](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EACKOT), Prof. [Mohammed Yakoob Siyal](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=eyakoob&CategoryDescription=InternetCommunications)|
 |AI6127|Deep Neural Networks for Natural Language Processing||
 |AI6126|Advanced Computer Vision||
