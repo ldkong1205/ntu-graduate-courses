@@ -53,7 +53,7 @@
 |CE7491|Special Advanced Topic - Digital Image Processing||
 |CE7490|Special Advanced Topic - Distributed Systems||
 |CE7455|[Deep learning for Natural Language Processing](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)|Prof. [Shafiq Rayhan Joty](https://raihanjoty.github.io/)|
-|CE7454|Deep learning for Data Science|Prof. [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)|
+|CE7454|[Deep learning for Data Science](http://deep-learning-xbresson.s3-website-us-west-1.amazonaws.com/)|Prof. [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)|
 |CE7453|Special Advanced Topic - Computational Intelligence : Methods & Applications||
 |CE7428|Special Advanced Topic - Computer and Network Security||
 |CE7427|Advanced Topic in Cognitive Neuroscience and Embodied Intelligence||
