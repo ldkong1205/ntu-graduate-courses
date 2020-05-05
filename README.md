@@ -74,4 +74,5 @@
 
 #### Copyright © Nanyang Technological University, Singapore. All rights reserved.
 <br>
+
 ![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/Images/yunnan%20garden.jpg)
