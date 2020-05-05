@@ -11,7 +11,7 @@
 |EE6511|[Power System Modelling and Control](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE6511)|Prof. [Eddy Y. S. Foo](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=eddyfoo)|
 |EE6510|Power System Operation and Planning|||
 |EE6509|Renewable Energy Systems in Smart Grids|||
-|EE6508|Power Quality||
+|EE6508|[Power Quality](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE6508)|Prof. [Ping Lam So](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EPLSO), |
 |EE6503|Modern Electronic Drives||
 |EE6501|Power Electronic Converters||
 |EE6427|[Video Signal Processing](https://github.com/NTU-CCA/EE6427)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|
