@@ -73,7 +73,6 @@
 |NM6001|Digital IC Design|Prof. [Wang Ling Goh](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWLGOH), Prof. [Chip Hong Chang]()|
 
 #### Copyright © Nanyang Technological University, Singapore. All rights reserved.
-<br>
 
 ![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/Images/yunnan%20garden.jpg)
 
