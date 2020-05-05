@@ -15,7 +15,7 @@
 |EE6503|Modern Electronic Drives||
 |EE6501|Power Electronic Converters||
 |EE6427|[Video Signal Processing](https://github.com/NTU-CCA/EE6427)|Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/)|
-|EE6424|Digital Audio Signal Processing||
+|EE6424|[Digital Audio Signal Processing](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE6424)|Prof. [Guoan Bi](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EGBI), Prof. [Zhiping Lin](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EZPLIN)|
 |EE6403|Distributed Multimedia Systems||
 |EE6402|Real-Time DSP Design and Applications||
 |EE6401|[Advanced Digital Signal Processing](https://github.com/NTU-CCA/EE6401)|Prof. [Guoan Bi](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EGBI), Prof. [Zhiping Lin](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EZPLIN)|
