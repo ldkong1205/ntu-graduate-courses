@@ -37,7 +37,7 @@
 |EE6108|Computer Networks|||
 |EE6101|Digital Communication Systems|||
 |EE6010|[Project Management & Technopreneurship](https://github.com/NTU-CCA/EE6010)|Prof. [Alex Kot](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EACKOT), Prof. [Mohammed Yakoob Siyal](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=eyakoob&CategoryDescription=InternetCommunications)|
-|AI6127|Deep Neural Networks for Natural Language Processing||
+|AI6127|[Deep Neural Networks for Natural Language Processing](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/AI6127)|Prof. [Shafiq Rayhan Joty](https://raihanjoty.github.io/)|
 |AI6126|Advanced Computer Vision||
 |AI6125|Multi-Agent System||
 |AI6124|Neuro Evolution and Fuzzy Intelligence||
