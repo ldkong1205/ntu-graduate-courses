@@ -42,7 +42,7 @@
 |AI6125|Multi-Agent System||
 |AI6124|Neuro Evolution and Fuzzy Intelligence||
 |AI6123|Time Series Analysis||
-|AI6122|Text Data Management and Processing||
+|AI6122|[Text Data Management and Processing](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/AI612)2|Prof. [Aixin Sun](https://www.ntu.edu.sg/home/axsun/)|
 |AI6121|Computer Vision||
 |AI6120|Python Programming||
 |AI6104|Mathematics for AI|Prof. [Adams Wai Kin Kong](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=ADAMSKONG)|
