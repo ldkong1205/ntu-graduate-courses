@@ -1,4 +1,4 @@
-|![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/logo.png)|
+|![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/Images/logo.png)|
 |---|
 # Graduate-Level Courses of Nanyang Technological University
 
@@ -72,5 +72,6 @@
 |NM6002|System-on-Chip Solutions & Architecture|Prof. [Andreas Herkersdorf](https://www.professoren.tum.de/en/herkersdorf-andreas/)|
 |NM6001|Digital IC Design|Prof. [Wang Ling Goh](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWLGOH), Prof. [Chip Hong Chang]()|
 
-
 #### Copyright © Nanyang Technological University, Singapore. All rights reserved.
+
+|![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/Images/yunnan%20garden.jpg)|
