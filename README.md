@@ -81,3 +81,7 @@
 ![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/Images/adm.jpg)
 
 ![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/Images/north%20hill.jpg)
+
+![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/Images/hall%20six.jpg)
+
+![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/Images/north%20spine.jpg)
