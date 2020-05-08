@@ -62,7 +62,7 @@
 |CE7411|Bioinformatics||
 |CE7405|Data Mining||
 |NM6014|Design for Testability of VLSI|Prof. [Tae Hyoung Kim](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=THKIM)|
-|NM6012|Advanced MOSFETs and Novel Devices|Prof. [Josef Biba](https://tum-asia.edu.sg/dr-ing-josef-biba/)|
+|NM6012|[Advanced MOSFETs and Novel Devices](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/NM6012)|Prof. [Josef Biba](https://tum-asia.edu.sg/dr-ing-josef-biba/)|
 |NM6010|IC Packaging|Prof. [Chuan Seng Tan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TANCS)|
 |NM6008|Digital Circuit Design Lab|Prof. Kwen-Siong Chong|
 |NM6007|Analog Circuit Design Lab||
