@@ -61,16 +61,16 @@
 |CE7412|Computational and Systems Biology||
 |CE7411|Bioinformatics||
 |CE7405|Data Mining||
-|NM6014|Design for Testability of VLSI|Prof. [Tae Hyoung Kim](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=THKIM)|
+|NM6014|[Design for Testability of VLSI](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/NM6014)|Prof. [Tae Hyoung Kim](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=THKIM)|
 |NM6012|[Advanced MOSFETs and Novel Devices](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/NM6012)|Prof. [Josef Biba](https://tum-asia.edu.sg/dr-ing-josef-biba/)|
-|NM6010|IC Packaging|Prof. [Chuan Seng Tan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TANCS)|
-|NM6008|Digital Circuit Design Lab|Prof. Kwen-Siong Chong|
+|NM6010|[IC Packaging](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/NM6010)|Prof. [Chuan Seng Tan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TANCS)|
+|NM6008|[Digital Circuit Design Lab](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/NM6008)|Prof. Kwen-Siong Chong|
 |NM6007|Analog Circuit Design Lab||
-|NM6006|Mixed Signal Circuit Design|Prof. [Stephan Henzler](http://www.lte.ei.tum.de/homes/henzler/)|
-|NM6004|Design Methodology & Automation|Prof. [Ulf Schlichtmann](https://www.professoren.tum.de/en/schlichtmann-ulf/)|
-|NM6003|Analog IC Design|Prof. [Ji-Jon Sit](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=JIJON)|
-|NM6002|System-on-Chip Solutions & Architecture|Prof. [Andreas Herkersdorf](https://www.professoren.tum.de/en/herkersdorf-andreas/)|
-|NM6001|Digital IC Design|Prof. [Wang Ling Goh](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWLGOH), Prof. [Chip Hong Chang]()|
+|NM6006|[Mixed Signal Circuit Design](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/NM6006)|Prof. [Stephan Henzler](http://www.lte.ei.tum.de/homes/henzler/)|
+|NM6004|[Design Methodology & Automation](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/NM6004)|Prof. [Ulf Schlichtmann](https://www.professoren.tum.de/en/schlichtmann-ulf/)|
+|NM6003|[Analog IC Design](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/NM6003)|Prof. [Ji-Jon Sit](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=JIJON)|
+|NM6002|[System-on-Chip Solutions & Architecture](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/NM6002)|Prof. [Andreas Herkersdorf](https://www.professoren.tum.de/en/herkersdorf-andreas/)|
+|NM6001|[Digital IC Design](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/NM6001)|Prof. [Wang Ling Goh](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWLGOH), Prof. [Chip Hong Chang]()|
 
 #### Copyright © Nanyang Technological University, Singapore. All rights reserved.
 
