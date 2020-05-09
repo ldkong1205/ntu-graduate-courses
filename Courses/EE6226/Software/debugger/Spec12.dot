@@ -1,0 +1,6 @@
+digraph G {
+	0 [label="0", shape=doubleoctagon];
+	1 [label="1", shape=circle,style=filled,color="lightblue"];
+	0 -> 1 [label="tau"]
+	1 -> 1 [label="mu",style=filled,color="green",fontcolor="green"];
+}
