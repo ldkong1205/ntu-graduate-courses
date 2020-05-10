@@ -22,6 +22,11 @@ This course is aimed at graduate students or engineers already working in relate
 
 - R. Krishnan, "Electric Motor Drives: Modelling, Analysis and Control," <i>Prentice Hall International</i>, 2001.
 
+### References:
+
+- S. William, L. N. Hulley, and D. T. W. Liang, “Power Electronics and Motor Control,” <i>Cambridge University Press</i>, 1995.
+- N. Mohan, T. M. Undeland, and W. P. Robbins, “Power Electronics: Converters, Applications, and Design, 3rd Edition," <i>Wiley</i>, 2002.
+
 ### Lecture Notes:
 
 |#|Content|Lecture Note|Lecturer|
