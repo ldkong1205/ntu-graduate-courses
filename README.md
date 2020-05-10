@@ -5,13 +5,20 @@
 |#|Course Title|Lecturer|
 |:---:|:---:|:---:|
 |EE7403|[Image Analysis & Pattern Recognition](https://github.com/NTU-CCA/EE7403)|Prof. [Xudong Jiang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EXDJIANG)|
+|EE7402|Statistical Signal Processing||
+|EE7401|Probability and Random Processes||
 |EE7207|[Neural & Fuzzy Systems](https://github.com/NTU-CCA/EE7207)|Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EKZMAO), Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)|
+|EE7205|Research Methods||
+|EE7204|Linear Systems||
+|EE7201|Computational Methods in Engineering||
+|EE6808|LED Lighting and Display Technologies||
+|EE6610|Integrated Circuit (IC) Packaging||
 |EE6604|Advanced Topics in Semiconductor Devices||
-|EE6602|Quality and Reliability Engineering|||
+|EE6602|Quality and Reliability Engineering||
 |EE6601|[Advanced Wafer Processing](https://github.com/NTU-CCA/EE6601)|Prof. [Chuan Seng Tan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TANCS), Prof. [Lei Wei](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=WEI.LEI), Prof. [Beng Kang Tay](http://eeeweba.ntu.edu.sg/BKTay/)|
 |EE6511|[Power System Modelling and Control](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE6511)|Prof. [Eddy Y. S. Foo](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=eddyfoo)|
-|EE6510|Power System Operation and Planning|||
-|EE6509|Renewable Energy Systems in Smart Grids|||
+|EE6510|Power System Operation and Planning||
+|EE6509|Renewable Energy Systems in Smart Grids||
 |EE6508|[Power Quality](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE6508)|Prof. [Ping Lam So](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EPLSO), Prof. [Amer M. Y. M. Ghias](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=amer.ghias)|
 |EE6503|[Modern Electronic Drives](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE6503)|Prof. [Christopher H. T. Lee](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=chtlee), Prof. [Xing Zhang](https://xinzhangee.wixsite.com/mysite)|
 |EE6501|Power Electronic Converters||
