@@ -2,6 +2,28 @@
 |---|
 # EE6503 - Modern Electronic Drives, Spring 2020
 
+### Learning Objective:
+
+The objective of this course is to familiarize the participating students with modern industrial electric drives. In order to provide a detailed understanding of industrial drive systems, the theory of operation, modeling and control of various types of commonly used industrial drives will be introduced. It also aims to broaden a student’s knowledge with the application of power electronic converters and inverters in controlling modern drive systems.
+
+### Content:
+
+DC Motor Drives. Induction Motor Drives. Synchronous Motor Drives. Servo-Motor Drives.
+
+### Learning Outcome:
+
+Graduates of this course are expected to gain a good understanding of the principle of operation, dynamic and steady-state modeling and controlling methods of modern electric drives. Furthermore, they will be at ease in dealing with almost all commonly used power electronic converters in drive systems. The course will prepare them to embark on a career in the area of electric drives or in power electronics. It will also prepare the students for high level R&D in these areas.
+
+### Other Relative Information:
+
+This course is aimed at graduate students or engineers already working in related fields. Prior knowledge of power, motors, power electronics and control theory at the undergraduate level is expected.
+
+### Textbook:
+
+- R. Krishnan, "Electric Motor Drives: Modelling, Analysis and Control," <i>Prentice Hall International</i>, 2001.
+
+### Lecture Notes:
+
 |#|Content|Lecture Note|Lecturer|
 |:---:|:---:|:---:|:---:|
 |**Part 1**|
