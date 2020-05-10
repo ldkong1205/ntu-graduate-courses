@@ -25,7 +25,7 @@ This course is designed for graduate students and engineers in the electric powe
 
 ### References:
 
-- P. M. Anderson and A. A. Fouad ,"Power System Control and Stability," <i>IEEE Press</i>, New York, 1994.
+- P. M. Anderson and A. A. Fouad , "Power System Control and Stability," <i>IEEE Press</i>, New York, 1994.
 
 ### Lecture Notes:
 
