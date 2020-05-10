@@ -2,6 +2,37 @@
 |---|
 # EE6424 - Digital Audio Signal Processing, Spring 2020
 
+### Learning Objective:
+
+Speech and audio are the most natural means of human communication. With the rapid advancement of technology, digital processing of speech and audio signals is becoming more popular. The first objective of this course will be to enable the students to understand how sound is perceived and the other objectives will be learning how various signal processing techniques can be applied to compress, enhance and recognize digital audio and speech signals.
+
+### Content:
+
+Psychology of Hearing. Principles of Digital Audio. Audio Processing and Synthesis.
+Digital Audio Compression. Characteristics of Speech Signals. Speech Enhancement.
+Vector Quantization. Linear Predictive Coding (LPC). Speech Recognition.
+
+### Learning Outcome:
+
+Upon completion of the course, the students should have a basic knowledge of the various signal processing techniques taught so that they can contribute positively to research organizations or companies in the fields of telecommunication, signal processing and information technology.
+
+### Textbooks:
+
+- J. Watkinson, "The Art of Digital Audio, 3rd Edition," <i>Focal Press</i>, 2000.
+- B. Gold, N. Morgan, and D. Ellis, "Speech and Audio Signal Processing, 2nd Edition," <i>John Wiley & Sons</i>, 2011.
+- I. McLoughlin, "Applied Speech and Audio Processing: With Matlab Examples," <i>Cambridge University Press</i>, 2009.
+- L. R. Rabiner and R. W. Schafer, "Theory and Applications of Digital Speech Processing," <i>Pearson</i>, 2011.
+
+### References:
+
+- A. Spanias, T. Painter, V. Atti, "Audio Signal Processing and Coding," <i>John Wiley & Sons</i>, 2006.
+- B. C. J. Moore, "An Introduction to the Psychology of Hearing," <i>Academic Press</i>, 1989.
+- J. R. Deller, J. H. L. Hansen, and J. G. Proakis, "Discrete-Time Processing of Speech Signals," <i>IEEE Press</i>, 2000.
+- S. Furui, "Digital Speech Processing, Synthesis, and Recognition," <i>Taylor & Francis</i>, 2001.
+- T. F. Quatieri, "Discrete-Time Speech Signal Processing: Principles and Practice," <i>Pearson</i>, 2002.
+
+### Lecture Notes:
+
 |#|Content|Lecture Note|Lecturer|
 |:---:|:---:|:---:|:---:|
 |**Part 1**|
