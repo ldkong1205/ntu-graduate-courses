@@ -5,8 +5,8 @@
 |#|Course Title|Lecturer|
 |:---:|:---:|:---:|
 |EE7403|[Image Analysis & Pattern Recognition](https://github.com/NTU-CCA/EE7403)|Prof. [Xudong Jiang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EXDJIANG)|
-|EE7402|Statistical Signal Processing||
-|EE7401|Probability and Random Processes||
+|EE7402|[Statistical Signal Processing](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE7402)||
+|EE7401|[Probability and Random Processes](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE7401)||
 |EE7207|[Neural & Fuzzy Systems](https://github.com/NTU-CCA/EE7207)|Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EKZMAO), Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)|
 |EE7205|Research Methods||
 |EE7204|Linear Systems||
