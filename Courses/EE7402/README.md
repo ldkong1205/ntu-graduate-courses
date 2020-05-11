@@ -4,27 +4,25 @@
 
 ### Learning Objective:
 
-The objective of this course is to instil participating individuals with an in-depth knowledge in power quality. With reliability and availability largely guaranteed, power quality is becoming the primary concern in electric power distribution systems. This module introduces the new concept of power quality and quantifies the power quality disturbances that fall within the wider umbrella of electromagnetic phenomena. It aims to provide a strong foundation for a better understanding of the fundamentals behind each power quality problem in addition to reaching for innovative and economical solutions.
+This course serves as an introduction to the field of statistical signal processing. It aims at covering certain basic techniques of signal detection and estimation, and adaptive filtering. These are the essential techniques that have been used in many application fields such as signal processing, controls and communications.
 
 ### Content:
 
-Concept of Power Quality. Voltage Fluctuations and Variations. Transient Overvoltages. Harmonic Distortions.
+Signal Estimation Theory. Properties of Estimators. Fundamentals of Detection Theory. Detection of Deterministic and Random Signals. Application of Signal Detection and Estimation. Introduction to Adaptive Filtering. Gradient based Adaptation. Adaptive Filter Applications.
 
 ### Learning Outcome:
 
-Graduates of this module shall possess the necessary skills to handle power quality related problems. This involves identifying the cause or source of the problem and assessing the severity of each problem with respect to the vulnerability of the affected devices. Computer modelling and simulations for examining the system responses or to evaluate the effectiveness of various solutions are essential skills imparted to the participants. As technology advances and equipment become more sensitive, new innovative ideas and approaches are needed to arrive at the most economical solutions. Graduates expected to be conversant with power quality terminologies, and ready to tackle power quality related challenges.
-
-### Other Relative Information:
-
-This course is aimed for graduate students and/or practicing engineers working in electric power distribution related fields. Some knowledge of fundamentals of power systems and engineering mathematics is expected.
+The basic concepts and techniques to be taught at a sufficient depth to enable the students to have enough background for practical applications or for better understanding their application fields such as signal processing, controls and communications. The learning outcome would be that the student is fully equipped with the theoretical background to select suitable algorithms for their applications and to be well equipped to pursue R & D work.
 
 ### Textbooks:
 
-- R. C. Dugan, M. F. McGranaghan, S. Santoso, and H. W. Beaty, "Electrical Power Systems Quality,
-Second Edition," <i>McGraw-Hill</i>, 2002.
-- B. W. Kennedy, "Power Quality Primer, 1st Edition," <i>McGraw-Hill</i>, 2000.
+- T. A. Schonhoff and A. A. Giordano, "Detection and Estimation Theory and Its Applications," <i>Prentice Hall</i>, 2006.
+- S. M. Kay, "Fundamentals to Statistical Signal Processing: Volume I: Estimation Theory," <i>Prentice Hall</i>, 1993.
+- S. M. Kay, "Fundamentals to Statistical Signal Processing: Volume II: Detection Theory," <i>Prentice Hall</i>, 1998.
 
 ### References:
 
-- M. H. J. Bollen, "Understanding Power Quality Problems: Voltage Sags and Interruptions, 1st Edition," <i>IEEE Press</i>, 2000.
-- J. Arrillaga and N. R. Watson, "Power System Harmonics, 2nd Edition," <i>John Wiley & Sons</i>, 2003.
+- S. Haykin, "Adaptive Filter Theory," <i>Prentice Hall</i>, 2002.
+- D. G. Manolakis, V. K. Ingle, and S. M. Kogon, "Statistical and Adaptive Signal Processing," <i>McGraw-Hill International Editions</i>, 2000.
+
+#### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
