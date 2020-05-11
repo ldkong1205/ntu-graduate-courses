@@ -24,5 +24,6 @@ The basic concepts and techniques to be taught at a sufficient depth to enable t
 
 - S. Haykin, "Adaptive Filter Theory," <i>Prentice Hall</i>, 2002.
 - D. G. Manolakis, V. K. Ingle, and S. M. Kogon, "Statistical and Adaptive Signal Processing," <i>McGraw-Hill International Editions</i>, 2000.
+- A。 H. Sayed, "Adaptive Filters," <i>John Wiley & Sons</i>, 2008.
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
