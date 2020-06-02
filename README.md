@@ -2,7 +2,7 @@
 |---|
 ## Graduate-Level Courses of Nanyang Technological University, Singapore 🇸🇬
 
-|#|Course Title|
+|Course #|Course Title|
 |:---:|:---:|
 |EE7403|[Image Analysis & Pattern Recognition](https://github.com/NTU-CCA/EE7403)|
 |EE7402|[Statistical Signal Processing](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE7402)|
