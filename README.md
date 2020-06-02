@@ -1,6 +1,6 @@
 |![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/Images/logo.png)|
 |---|
-## Graduate-Level Courses of Nanyang Technological University, Singapore
+## Graduate-Level Courses of Nanyang Technological University, Singapore🇸🇬
 
 |#|Course Title|
 |:---:|:---:|
