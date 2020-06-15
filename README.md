@@ -8,9 +8,9 @@
 |EE7402|[Statistical Signal Processing](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE7402)|
 |EE7401|[Probability and Random Processes](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE7401)|
 |EE7207|[Neural & Fuzzy Systems](https://github.com/NTU-CCA/EE7207)|
-|EE7205|[Research Methods](https://github.com/NTU-CCA/EE7205)|
-|EE7204|[Linear Systems](https://github.com/NTU-CCA/EE7204)|
-|EE7201|[Computational Methods in Engineering](https://github.com/NTU-CCA/EE7201)|
+|EE7205|[Research Methods](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE7205)|
+|EE7204|[Linear Systems](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE7204)|
+|EE7201|[Computational Methods in Engineering](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/EE7201)|
 |EE6808|LED Lighting and Display Technologies|
 |EE6610|Integrated Circuit (IC) Packaging|
 |EE6604|Advanced Topics in Semiconductor Devices|
