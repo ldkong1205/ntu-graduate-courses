@@ -1,6 +1,6 @@
-|![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/Courses/EE7401/logo.png)|
+|![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/Courses/EE7205/logo.png)|
 |---|
-# EE7401 - Probability and Random Processes
+# EE7205 - Research Methods
 
 ### Learning Objective:
 
