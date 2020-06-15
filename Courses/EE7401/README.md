@@ -9,9 +9,9 @@ The aim of this course is to introduce the concepts and computational tools of p
 ### Desired Outcome:
 
 After completing this course, the student will have:
-- gained some familiarity with the application of probability and random processes in engineering problems.
-- a working knowledge of some probabilistic and stochastic computational tools.
-- the ability to do performance calculations, such as the receiver operating characteristic of communication and detection systems.
+- Gained some familiarity with the application of probability and random processes in engineering problems.
+- A working knowledge of some probabilistic and stochastic computational tools.
+- The ability to do performance calculations, such as the receiver operating characteristic of communication and detection systems.
 
 ### Other Relevant Information:
 
