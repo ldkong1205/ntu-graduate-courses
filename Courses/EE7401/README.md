@@ -1,6 +1,6 @@
 |![image](https://github.com/ldkong1205/NTU-Graduate-Courses/blob/master/Courses/EE7401/logo.png)|
 |---|
-# EE7402 - Statistical Signal Processing
+# EE7401 - Probability and Random Processes
 
 ### Learning Objective:
 
