@@ -62,13 +62,18 @@
 |CE7490|Special Advanced Topic - Distributed Systems|
 |CE7455|[Deep learning for Natural Language Processing](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)|
 |CE7454|[Deep learning for Data Science](http://deep-learning-xbresson.s3-website-us-west-1.amazonaws.com/)|
-|CE7453|Special Advanced Topic - Computational Intelligence : Methods & Applications|
+|CE7453|Numerical Algorithms|
+|CE7452|RTOS for Cyber-Physical Systems|
+|CE7429|Special Advanced Topic - Computational Intelligence : Methods & Applications|
 |CE7428|Special Advanced Topic - Computer and Network Security|
 |CE7427|Advanced Topic in Cognitive Neuroscience and Embodied Intelligence|
 |CE7426|Advanced Topic in Convex Optimization|
 |CE7412|Computational and Systems Biology|
 |CE7411|Bioinformatics|
 |CE7405|Data Mining|
+|DM6190|Special Topic- Recent Advance on Image Segmentation and Its Applications|
+|DM6127|Artificial Intelligence in Game Design|
+|DM6121|Human Computer Interaction|
 |NM6014|[Design for Testability of VLSI](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/NM6014)|
 |NM6012|[Advanced MOSFETs and Novel Devices](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/NM6012)|
 |NM6010|[IC Packaging](https://github.com/ldkong1205/NTU-Graduate-Courses/tree/master/Courses/NM6010)|
