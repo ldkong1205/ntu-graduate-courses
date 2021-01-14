@@ -1,6 +1,6 @@
 ## Graduate-Level Courses
 
-*(Note: Content found at the Internet.)*
+*(NOTE: All the content was found on the Internet.)*
 
 |Course Code|Course Title|
 |:---:|:---:|
