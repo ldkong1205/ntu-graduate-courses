@@ -1,5 +1,7 @@
 ## Graduate-Level Courses
 
+*(Note: Content found at the Internet.)*
+
 |Course Code|Course Title|
 |:---:|:---:|
 |EE7403|[Image Analysis & Pattern Recognition](https://github.com/NTU-CCA/EE7403)|
