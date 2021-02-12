@@ -1,4 +1,4 @@
-*(NOTE: All the content was found on the Internet.)*
+*(NOTE: Content found on the Internet.)*
 
 |Course Code|Course Title|
 |:---:|:---:|
